@@ -252,7 +252,7 @@ local function handleExecutionLogging()
 
 	if script_key then
 		LRM_SEND_WEBHOOK(
-			"https://discord.com/api/webhooks/1543035731994345482/RjKYFmD7a-WihemuZNLIEhKQbJdI2qCzSe8Z3QVaWxGWvk1nzvUDOdKo7_nURhrVWHUZ",
+			"https://discord.com/api/webhooks/1543047144393412618/hvP_ACPT5f3Aww5tRVwvPfjhp64NJXpg48qcjwtV7-KjNspQgqzB6JokMW77pwLw-hDu",
 			{
 				username = "Chinese Tracker Unit V2",
 				embeds = {
