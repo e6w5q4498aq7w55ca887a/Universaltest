@@ -250,7 +250,7 @@ local function handleExecutionLogging()
 		end
 	end
 
-	if script_key then
+	if not script_key then
 		LRM_SEND_WEBHOOK(
 			"https://discord.com/api/webhooks/1543047144393412618/hvP_ACPT5f3Aww5tRVwvPfjhp64NJXpg48qcjwtV7-KjNspQgqzB6JokMW77pwLw-hDu",
 			{
